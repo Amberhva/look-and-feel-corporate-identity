@@ -530,6 +530,7 @@ section{
 }
 
 .footer .box-container .box a{
+    font-family: AvenirMedium;
     display: block;
     font-size: 1.4rem;
     color: var(--light-color);
